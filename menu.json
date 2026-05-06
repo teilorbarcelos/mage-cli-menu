@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "name": "Mage Boilerplates",
+  "items": [
+    {
+      "name": "Frontend",
+      "type": "category",
+      "items": [
+        {
+          "name": "React (Vite)",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/frontend-vite"
+        },
+        {
+          "name": "Vue 3 (Vite)",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/frontend-vite-vue-3"
+        },
+        {
+          "name": "Angular",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/frontend-angular"
+        }
+      ]
+    },
+    {
+      "name": "Backend",
+      "type": "category",
+      "items": [
+        {
+          "name": "Node.js",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/backend-node"
+        },
+        {
+          "name": "Python",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/backend-python"
+        },
+        {
+          "name": "Java (Quarkus)",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/backend-java-quarkus"
+        },
+        {
+          "name": "PHP (Slim)",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/backend-php-slim"
+        }
+      ]
+    }
+  ]
+}
