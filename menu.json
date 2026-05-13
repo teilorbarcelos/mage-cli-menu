@@ -46,6 +46,11 @@
           "name": "PHP (Slim)",
           "type": "boilerplate",
           "url": "https://github.com/teilorbarcelos/backend-php-slim"
+        },
+        {
+          "name": "Golang",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/backend-go"
         }
       ]
     }
