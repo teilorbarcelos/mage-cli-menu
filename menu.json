@@ -53,6 +53,17 @@
           "url": "https://github.com/teilorbarcelos/backend-go"
         }
       ]
+    },
+    {
+      "name": "Services",
+      "type": "category",
+      "items": [
+        {
+          "name": "PDF Service (Java/Quarkus)",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/pdf-service-java"
+        }
+      ]
     }
   ]
 }
