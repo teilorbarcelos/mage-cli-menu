@@ -59,7 +59,18 @@
       "type": "category",
       "items": [
         {
-          "name": "PDF Service (Java/Quarkus)",
+          "name": "PDF Service (Node.js/React-PDF) react based",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/react-pdf-service"
+        }
+      ]
+    },
+    {
+      "name": "Services",
+      "type": "category",
+      "items": [
+        {
+          "name": "PDF Service (Java/Quarkus) html based",
           "type": "boilerplate",
           "url": "https://github.com/teilorbarcelos/pdf-service-java"
         }
