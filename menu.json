@@ -28,14 +28,9 @@
       "type": "category",
       "items": [
         {
-          "name": "Node.js",
+          "name": "Golang",
           "type": "boilerplate",
-          "url": "https://github.com/teilorbarcelos/backend-node"
-        },
-        {
-          "name": "Python",
-          "type": "boilerplate",
-          "url": "https://github.com/teilorbarcelos/backend-python"
+          "url": "https://github.com/teilorbarcelos/backend-go"
         },
         {
           "name": "Java (Quarkus)",
@@ -43,14 +38,24 @@
           "url": "https://github.com/teilorbarcelos/backend-java-quarkus"
         },
         {
+          "name": "Node.js",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/backend-node"
+        },
+        {
           "name": "PHP (Slim)",
           "type": "boilerplate",
           "url": "https://github.com/teilorbarcelos/backend-php-slim"
         },
         {
-          "name": "Golang",
+          "name": "Python",
           "type": "boilerplate",
-          "url": "https://github.com/teilorbarcelos/backend-go"
+          "url": "https://github.com/teilorbarcelos/backend-python"
+        },
+        {
+          "name": "Rust",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/backend-rust"
         }
       ]
     },
