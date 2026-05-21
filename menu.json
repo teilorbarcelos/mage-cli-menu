@@ -28,6 +28,11 @@
       "type": "category",
       "items": [
         {
+          "name": "C# (ASP.NET)",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/backend-c-sharp"
+        },
+        {
           "name": "Golang",
           "type": "boilerplate",
           "url": "https://github.com/teilorbarcelos/backend-go"
