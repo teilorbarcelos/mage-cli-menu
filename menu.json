@@ -69,6 +69,11 @@
       "type": "category",
       "items": [
         {
+          "name": "Auth Service (Node.js)",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/auth-service-node"
+        },
+        {
           "name": "Auth Service (Rust)",
           "type": "boilerplate",
           "url": "https://github.com/teilorbarcelos/auth-service-rust"
