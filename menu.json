@@ -69,34 +69,51 @@
       "type": "category",
       "items": [
         {
-          "name": "Auth Service (Node.js)",
-          "type": "boilerplate",
-          "url": "https://github.com/teilorbarcelos/auth-service-node"
+          "name": "Auth Services",
+          "type": "options",
+          "items": [
+            {
+              "name": "Auth Service (Node.js)",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/auth-service-node"
+            },
+            {
+              "name": "Auth Service (Rust)",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/auth-service-rust"
+            },
+            {
+              "name": "Auth Service (C#)",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/auth-service-c-sharp"
+            },
+            {
+              "name": "Auth Service (Java/Quarkus)",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/auth-service-java"
+            },
+            {
+              "name": "Auth Service (Golang)",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/auth-service-go"
+            }
+          ]
         },
         {
-          "name": "Auth Service (Rust)",
-          "type": "boilerplate",
-          "url": "https://github.com/teilorbarcelos/auth-service-rust"
-        },
-        {
-          "name": "Auth Service (C#)",
-          "type": "boilerplate",
-          "url": "https://github.com/teilorbarcelos/auth-service-c-sharp"
-        },
-        {
-          "name": "Auth Service (Golang)",
-          "type": "boilerplate",
-          "url": "https://github.com/teilorbarcelos/auth-service-go"
-        },
-        {
-          "name": "PDF Service (Node.js/React-PDF) react based",
-          "type": "boilerplate",
-          "url": "https://github.com/teilorbarcelos/react-pdf-service"
-        },
-        {
-          "name": "PDF Service (Java/Quarkus) html based",
-          "type": "boilerplate",
-          "url": "https://github.com/teilorbarcelos/pdf-service-java"
+          "name": "PDF Services",
+          "type": "options",
+          "items": [
+            {
+              "name": "PDF Service (Node.js/React-PDF) react based",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/react-pdf-service"
+            },
+            {
+              "name": "PDF Service (Java/Quarkus) html based",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/pdf-service-java"
+            }
+          ]
         }
       ]
     }
