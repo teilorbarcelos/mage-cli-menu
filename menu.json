@@ -79,6 +79,11 @@
           "url": "https://github.com/teilorbarcelos/auth-service-rust"
         },
         {
+          "name": "Auth Service (C#)",
+          "type": "boilerplate",
+          "url": "https://github.com/teilorbarcelos/auth-service-c-sharp"
+        },
+        {
           "name": "Auth Service (Golang)",
           "type": "boilerplate",
           "url": "https://github.com/teilorbarcelos/auth-service-go"
