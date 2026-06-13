@@ -96,6 +96,11 @@
               "name": "Auth Service (Golang)",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/auth-service-go"
+            },
+            {
+              "name": "Auth Service (PHP - Slim)",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/auth-service-php"
             }
           ]
         },
