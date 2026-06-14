@@ -73,34 +73,39 @@
           "type": "options",
           "items": [
             {
-              "name": "Auth Service (Node.js)",
+              "name": "Node.js",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/auth-service-node"
             },
             {
-              "name": "Auth Service (Rust)",
+              "name": "Rust",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/auth-service-rust"
             },
             {
-              "name": "Auth Service (C#)",
+              "name": "C#",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/auth-service-c-sharp"
             },
             {
-              "name": "Auth Service (Java/Quarkus)",
+              "name": "Java/Quarkus",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/auth-service-java"
             },
             {
-              "name": "Auth Service (Golang)",
+              "name": "Golang",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/auth-service-go"
             },
             {
-              "name": "Auth Service (PHP - Slim)",
+              "name": "PHP - Slim",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/auth-service-php"
+            },
+            {
+              "name": "Python",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/auth-service-python"
             }
           ]
         },
