@@ -133,6 +133,11 @@
               "name": "Node.js",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/job-service-node"
+            },
+            {
+              "name": "Python",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/job-service-python"
             }
           ]
         }
