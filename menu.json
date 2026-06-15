@@ -138,6 +138,11 @@
               "name": "Python",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/job-service-python"
+            },
+            {
+              "name": "C#",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/job-service-c-sharp"
             }
           ]
         }
