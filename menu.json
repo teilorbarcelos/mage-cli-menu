@@ -124,6 +124,17 @@
               "url": "https://github.com/teilorbarcelos/pdf-service-java"
             }
           ]
+        },
+        {
+          "name": "Job Services",
+          "type": "options",
+          "items": [
+            {
+              "name": "Node.js",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/job-service-node"
+            }
+          ]
         }
       ]
     }
