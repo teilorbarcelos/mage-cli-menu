@@ -153,6 +153,11 @@
               "name": "Java/Quarkus",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/job-service-java"
+            },
+            {
+              "name": "PHP - Slim",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/job-service-php"
             }
           ]
         }
