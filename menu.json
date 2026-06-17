@@ -158,6 +158,11 @@
               "name": "PHP - Slim",
               "type": "boilerplate",
               "url": "https://github.com/teilorbarcelos/job-service-php"
+            },
+            {
+              "name": "Rust",
+              "type": "boilerplate",
+              "url": "https://github.com/teilorbarcelos/job-service-rust"
             }
           ]
         }
